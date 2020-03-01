@@ -2,6 +2,7 @@
 # thatpackage
 
 <!-- badges: start -->
+[![R build status](https://github.com/jameslee0920/thatpackage/workflows/R-CMD-check/badge.svg)](https://github.com/jameslee0920/thatpackage/actions)
 <!-- badges: end -->
 
 The goal of thatpackage is to ...
