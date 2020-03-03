@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/jameslee0920/thatpackage/workflows/R-CMD-check/badge.svg)](https://github.com/jameslee0920/thatpackage/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jameslee0920/thatpackage/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of thatpackage is to ...
