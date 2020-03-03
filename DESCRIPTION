@@ -3,7 +3,7 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: James Lee
-Maintainer: The package maintainer <jameslee2@uw.edu>
+Maintainer: The package maintainer <jlee0920@uw.edu>
 Description: String manipulation.  Has two packages.  capFirst, capitalizes the first letter of a string.  lowerRest, lowercases the second to rest of string.  
 License: MIT + file LICENSE
 Encoding: UTF-8
