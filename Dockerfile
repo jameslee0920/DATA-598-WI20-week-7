@@ -2,7 +2,7 @@
 FROM rocker/verse:3.6.1
 
 # required
-MAINTAINER Your Name <your_email@somewhere.com>
+MAINTAINER James Lee <jlee0920@uw.edu>
 
 COPY . /thatpackage
 
@@ -16,4 +16,4 @@ RUN . /etc/environment \
   && R -e "devtools::install('/thatpackage', dep=TRUE)" \
   # render the manuscript into a docx, you'll need to edit this if you've
   # customised the location and name of your main Rmd file
-  && R -e "devtools::check()"
+  && R -e "devtools::check('/thatpackage')"
