@@ -2,7 +2,7 @@
 FROM rocker/verse:3.6.1
 
 # required
-MAINTAINER James Lee <jlee0920@uw.edu>
+MAINTAINER Your Name <your_email@somewhere.com>
 
 COPY . /thatpackage
 
